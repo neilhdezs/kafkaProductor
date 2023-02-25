@@ -1,6 +1,6 @@
-package com.example.demokafka.controller;
+package es.nhs.kafkaproductor.controller;
 
-import com.example.demokafka.kafka.KafkaProducer;
+import es.nhs.kafkaproductor.kafka.KafkaProducer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
